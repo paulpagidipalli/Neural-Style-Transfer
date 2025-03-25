@@ -51,3 +51,7 @@ Modify the File Paths – Update the content_path and style_path in the nst.py s
 Run the Script – Execute nst.py in a Python environment. The script will process the images and apply the style transfer model.
 
 Save and View Results – The stylized image will be stored in the output folder, and the script will also display it using Matplotlib.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ae9a1201-d62a-44e0-b5ce-df278eeaac4b)
